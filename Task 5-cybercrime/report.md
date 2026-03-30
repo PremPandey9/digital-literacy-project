@@ -1,0 +1,5 @@
+When I was researching online payment fraud and UPI I was surprised that fraudsters exploit people's trust through social engineering instead of technical hacking. I always thought that the bulk of cybercrime was done by complex coding and/or the use of malware, however, many victims fall prey to scammers simply by being tricked into giving out their information over the phone; or by being sent a fake customer service message.
+
+I was shocked at how easy it is for a fraudster to access someone's financial apps by simply tricking them into installing remote access software. This showed me that being aware of the possibility you may be a victim and skeptical of unsolicited communication is equally as important as any technical defense.
+
+I will make one change to what I do, I will never download and/or install an app from an unsolicited phone call or message. In addition, I will verify any financial alerts I get directly from my bank rather than trusting the caller. By making these two small changes, I can significantly reduce my chances of falling victim to online payment fraud.
